@@ -1,4 +1,4 @@
-=== LS Sanitize Greek Filenames ===
+=== LS Sanitize Greek Filename ===
 Contributors: lenasterg
 Plugin URI: https://github.com/lenasterg/ls-sanitize-greek-filename
 Description: Replaces Greek characters in filenames with their Latin equivalents upon file upload.
