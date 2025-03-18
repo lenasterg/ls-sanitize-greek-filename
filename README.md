@@ -1,7 +1,7 @@
-# LS Sanitize Greek Filenames
+# LS Sanitize Greek Filename
 
 ## Description
-The **LS Sanitize Greek Filenames** plugin automatically replaces Greek characters in filenames with their corresponding Latin equivalents during file uploads. This ensures compatibility and better handling of filenames, especially when working with international websites or servers that may have issues with non-Latin characters.
+The **LS Sanitize Greek Filename** plugin automatically replaces Greek characters in filenames with their corresponding Latin equivalents during file uploads. This ensures compatibility and better handling of filenames, especially when working with international websites or servers that may have issues with non-Latin characters.
 
 ### Why is this needed?
 Many file systems and web servers have limited support for non-Latin characters, which can cause issues when uploading files with Greek characters in their names. This plugin ensures that files are uploaded with filenames that are universally compatible, avoiding potential problems with file handling, linking, and display across different platforms and services.
