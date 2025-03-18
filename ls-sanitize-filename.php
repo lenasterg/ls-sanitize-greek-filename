@@ -1,6 +1,6 @@
 <?php 
 /**
- * Plugin Name: LS Sanitize Greek Filenames
+ * Plugin Name: LS Sanitize Greek Filename
  * Description: Replaces Greek characters in filenames with their Latin equivalents upon file upload. 
  * Version: 1.0
  * Author: lenasterg
